@@ -1,0 +1,9 @@
+1. Która funkcja to deklaracja, a która wyrażenie?
+– function calculateSum(a,b) - deklaracja
+– const calculateProduct = function(a,b) - wyrażenie funkcyjne
+
+2. Która wymaga średnika?
+Wyrażenie funkcyjne, bo jest przypisaniem
+
+3. Czy można przypisać calculateSum do innej zmiennej?
+Tak np let x = calculateSum
